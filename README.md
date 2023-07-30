@@ -8,16 +8,16 @@ This is a sleek and professional-looking modern calculator web application built
 Key Features:
 <br>
 
-Stylish and intuitive user interface<br>
+- Stylish and intuitive user interface<br>
 
-Responsive design for various screen sizes<br>
+- Responsive design for various screen sizes<br>
 
-Supports basic arithmetic operations<br>
+- Supports basic arithmetic operations<br>
 
-Allows decimal point input for precision<br>
+- Allows decimal point input for precision<br>
 
-Clear button (C) to reset the input<br>
+- Clear button (C) to reset the input<br>
 
-Easy-to-use and straightforward functionality<br>
+- Easy-to-use and straightforward functionality<br>
 
 Try out this modern calculator to perform quick calculations with style!<br>
