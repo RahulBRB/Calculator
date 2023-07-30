@@ -21,3 +21,4 @@ Key Features:
 - Easy-to-use and straightforward functionality<br>
 
 Try out this modern calculator to perform quick calculations with style!<br>
+![image](https://github.com/RahulBRB/Calculator/assets/86495244/6a1a9165-4d3d-4d3b-88ed-96d4340d5377)
